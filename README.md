@@ -1,8 +1,8 @@
 # Pong game with NEAT
 
 Avaible game modes are:
-human vs human
-human vs AI
+a)human vs human
+b)human vs AI
 
 To play:
   1. install requirements
