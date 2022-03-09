@@ -19,5 +19,42 @@ To play:
 
 Game over:
 
-[gameover](https://user-images.githubusercontent.com/77300331/157462378-be27fa7d-f545-4090-82de-31ac1a4aad2f.png)
+
+
+
+
+
+
+
+
+![gameover](https://user-images.githubusercontent.com/77300331/157462593-0d563d75-dc63-4813-aafd-a9198db8b77c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
