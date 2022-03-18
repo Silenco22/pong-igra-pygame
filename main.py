@@ -288,7 +288,7 @@ def play_ai(config):
 #runs the game only if its directly called from this window
 if __name__ == '__main__':
     """Comment/uncomment lines if u want to train or play against AI or to play against human"""
-    #play 1v1 human normal game with main():
+    #play 1v1 human normal game with main(): keys1: w,s  keys2: up arrow, down arrow
     main()
     local_dir = os.path.dirname(__file__)
     conf_path = os.path.join(local_dir, "config.txt")
